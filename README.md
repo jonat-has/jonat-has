@@ -2,8 +2,8 @@
 Sou um desenvolvedor back-end Java, mas que consegue se virar bem no front-end. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPE (Instituto Federal de Pernambuco). Estou buscando meu primeiro estágio para entrar no mercado de trabalho e construir um plano de carreira. Atualmente, meu foco de estudo é Java e seus frameworks, como Spring e Quarkus, além de Inteligência Artificial para o meu TCC.
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=radical)](https://github.com/jonat-has/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=pie)](https://github.com/jonat-has/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=dark)](https://github.com/jonat-has/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=pie&theme=dark)](https://github.com/jonat-has/github-readme-stats)
 
 ---
 
