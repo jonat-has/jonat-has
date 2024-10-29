@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Seu Nome]
 
-<!--
-**jonat-has/jonat-has** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Sobre Mim
+- 🔭 Atualmente, estou trabalhando em [projeto ou empresa]
+- 🌱 Estudando [tecnologia ou área de interesse]
+- 👯 Buscando colaborar em projetos de [área de interesse]
+- 📫 Contato: [seu email] | [LinkedIn](link do LinkedIn)
 
-Here are some ideas to get you started:
+### 🚀 Minhas Skills
+- Linguagens: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![Quarkus](https://img.shields.io/badge/Quarkus-%2320256D.svg?style=for-the-badge&logo=quarkus&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+
+### 🏆 Troféus
+![Troféus](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=darkhub)
+
+### 🔗 Redes Sociais
+- [LinkedIn](link do LinkedIn)
+- [Twitter](link do Twitter)
+
