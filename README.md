@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Jonathas Gabriel
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=radical)](https://github.com/jonat-has/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=radical)](https://github.com/jonat-has/github-readme-stats) ![Peepo tomando café](https://cdn.discordapp.com/emojis/741607254022725654.png?v=1)
 
 #### Linguagens e Frameworks
 - **Linguagens**:  
@@ -12,14 +12,14 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- **Bancos de Dados**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 - **Frameworks e Bibliotecas**:  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
   ![Quarkus](https://img.shields.io/badge/Quarkus-%2320256D.svg?style=for-the-badge&logo=quarkus&logoColor=white) 
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+- **Bancos de Dados**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
