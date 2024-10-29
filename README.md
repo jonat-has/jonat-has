@@ -3,7 +3,7 @@ Sou um desenvolvedor back-end Java, mas que consegue se virar bem no front-end. 
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=radical)](https://github.com/jonat-has/github-readme-stats)  
-![Peepo tomando café](link-direto-para-o-GIF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=pie)](https://github.com/jonat-has/github-readme-stats)
 
 ---
 
