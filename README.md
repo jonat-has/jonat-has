@@ -1,6 +1,6 @@
 # Olá! Eu sou Jonathas Gabriel
 
-Desenvolvedor Back-End Java, mas que consegue se virar bem no front-end. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPE (Instituto Federal de Pernambuco). Estou buscando meu primeiro estágio para entrar no mercado de trabalho e construir um plano de carreira. Meu foco de estudo é Java e seus frameworks, como Spring e Quarkus, além de Inteligência Artificial para o meu TCC.
+Desenvolvedor Back-End Java, mas que consegue se virar bem no Front-End. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPE (Instituto Federal de Pernambuco). Estou buscando meu primeiro estágio para entrar no mercado de trabalho e construir um plano de carreira. Meu foco de estudo é Java e seus frameworks, como Spring e Quarkus, além de Inteligência Artificial para o meu TCC.
 
 ---
 
