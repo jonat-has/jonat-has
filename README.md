@@ -17,6 +17,9 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Frameworks**:  
+- **Frameworks e Bibliotecas**:  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-  ![Quarkus](https://img.shields.io/badge/Quarkus-%2320256D.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+  ![Quarkus](https://img.shields.io/badge/Quarkus-%2320256D.svg?style=for-the-badge&logo=quarkus&logoColor=white) 
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
