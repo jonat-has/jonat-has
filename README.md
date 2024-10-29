@@ -3,10 +3,10 @@
 ---
 
 <a href="https://github.com/jonat-has/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=dark" />
+  <img height=200 width=65% align="center" src="https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/jonat-has/github-readme-stats">
-  <img height=200 width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=compact&theme=dark" />
+  <img height=200 width=35% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=compact&theme=dark" />
 </a>
 
 ---
