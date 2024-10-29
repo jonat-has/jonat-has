@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Jonathas Gabriel
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=radical)](https://github.com/jonat-has/github-readme-stats) ![Peepo tomando café](https://cdn.discordapp.com/emojis/741607254022725654.png?v=1)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=radical)](https://github.com/jonat-has/github-readme-stats) ![Peepo tomando café]([https://cdn.discordapp.com/emojis/741607254022725654.png?v=1](https://tenor.com/pt-BR/view/peepo-coffee-peepo-coffee-gif-21079872))
 
 #### Linguagens e Frameworks
 - **Linguagens**:  
