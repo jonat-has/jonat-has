@@ -3,10 +3,10 @@ Sou um desenvolvedor back-end Java, mas que consegue se virar bem no front-end. 
 ---
 
 <a href="https://github.com/jonat-has/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=dark)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonat-has&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/jonat-has/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=pie&theme=dark)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonat-has&layout=pie&theme=dark" />
 </a>
 
 ---
